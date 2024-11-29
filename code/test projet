@@ -1,0 +1,23 @@
+Test n°1
+
+Section 1 :
+1.	Connaissances générales Bases du développement web
+
+•	Le développement web consiste à créer et maintenir un site Web. Il est essentiel car il permet de créer sa présence en ligne
+
+2.	Connaissances HTML Avez-vous entendu parler de HTML ? Si oui, que signifie HTML et quel est son objectif principal dans le développement web ?
+
+•	HyperTexte markup language. HTML permet de structurer le contenu de sa page via les balises et de gérer l'accessibilité.
+
+Section 2 :
+1.	Familiarité avec CSS Compréhension de CSS Êtes-vous familier avec CSS ? Si oui, expliquez
+brièvement à quoi sert CSS dans le développement*
+Oui je suis en apprentissage. CSS qui signifie cascading Style sheet est utilisé pour décrire l'apparence des pages web. Ce qui permet de créer des visuels plus beaux.
+
+Section 3 : JavaScript et son importance Introduction à JavaScript Avez-vous entendu parler de JavaScript? Si oui, qu'est-ce que JavaScript et pourquoi est-il crucial pour créer des sites web interactifs?
+•	JavaScript est un langage de programmation qui permet de rendre les sites web interactifs. Il est aussi utilisé pour ajouter des fonctionnalités dynamiques tels que les animations et formulaires interactifs. Il permet des mises à jour sans recharger la page.
+
+Section 4 : *Section 4 : Introduction à React et Node.js Connaissance de React et Node.js Êtes-vous familier avec React et Node.js ? Si oui, fournissez une brève description de ce à quoi React et Node.js sont généralement utilisés dans le développement web.
+
+React : c'est une bibliothèque JavaScript développé par Facebook et utilisé pour construire des interfaces utilisateur dynamique et réactives. Elle permet de gérer efficacement les mises à jours de l'interface utilisateur.
+Node.js : c'est un environnement d'exécution JavaScript qui permet d'exécuter du code JavaScript sur le serveur. Il est aussi utilisé pour construire des applications Web évolutive et rapide.
